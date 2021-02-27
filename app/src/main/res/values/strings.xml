@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidAnatomi</string>
+    <string name="menu_home">Beranda</string>
+    <string name="menu_message">Pesan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">fragment home</string>
+    <string name="number_label">Nomor</string>
+    <string name="send_label">kirim</string>
+    <string name="open">buka</string>
+    <string name="close">tutup</string>
+</resources>
